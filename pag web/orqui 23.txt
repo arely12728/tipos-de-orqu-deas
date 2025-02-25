@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>tipos de orquedea</title>
+</head>
+<BODY><center><h1><i> SABER DE ORQUIDEAS<i></h1></center><body style="background-color:#a89af6;">>
+
+ Las Orchidaceae o también con su nombre común orquídeas de la familia monocotiledóneas.Este
+tipo de plantas son conocidas por la forma peculiar de sus pétalos y sus colores atrayendo a los polinizadores y siendo
+atractivas así el público. Te has preguntado cómo cuidar, cuantas especies hay y en que ayudan al
+ecosistema.
+<center><img src="img.jpg" width="240px" />
+<h3><i>Cuidados básicos</h3></i></center>  
+<center><i>* La luz solar debe ser moderada sin mucha luz y sin que pegue directamente en los rayos del sol
+ <center><i>* Con una humedad de 55-75 %.</i></center>
+ <center><i>* El uso de fertilizante balanceado de cada mes.</i></center>
+<center> <i>* La temperatura donde se debe poner debe ser tropical entre los
+15-25 ºC.</i></center>
+Los tipos de orquídeas
+<center><i><h3>Los tipos de orquideas</center></i></h3>
+phalaenosis
+Es la más común, se considera elegante por susu colores y la froma de sus petalos 
+<!-- Lluvia en el blog -->
+<div style="display:none;">
+<script type="text/javascript" src="http://blogparts.giffy.me/0117/parts.js"></script><p style="text-align: center;margin:0;padding:0;">
+<a href="http://giffy.me/baby/"><img style="border:0;" src="http://blogparts.giffy.me/0117/parts.gif" alt="????100%??????;" /></a></p>
+<p style="text-align:center;font-size:12px;margin:10px 0 0 0;padding:0;">
+[PR] <a href="http://typing.twi1.me/" rel="nofollow">??????????!</a></p>
+</div>
+<iframe allowtransparency='true' frameborder='0' marginheight='0' marginwidth='0' scrolling='no' src='http://audio-play.blogspot.com/p/lluvia.html' style='height:0; width:0;'></iframe>
+<!-- Fin lluvia en el blog -->
+
+</BODY>
+</html>
